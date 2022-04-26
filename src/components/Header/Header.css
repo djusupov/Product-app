@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(211, 147, 28);
+    max-width: 100%;
+}
+
+.header h2{
+    margin: 10px;
+}
+
+.header_box{
+    display: flex;
+}
+
+.header_box li{
+    list-style: none;
+    margin-top: 20px;
+    margin-left: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+}
